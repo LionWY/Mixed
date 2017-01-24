@@ -7,7 +7,8 @@
 //
 
 #import "OCClass.h"
-#import "Mixed-Swift.h"
+
+#import <Mixed/Mixed-Swift.h>
 
 @implementation OCClass
 

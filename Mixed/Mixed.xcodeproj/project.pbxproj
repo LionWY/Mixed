@@ -277,6 +277,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = lion.Mixed;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Mixed/Mixed-Bridging-Header.h";
+				SWIFT_OBJC_INTERFACE_HEADER_NAME = "Mixed/Mixed-Swift.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
@@ -292,6 +293,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = lion.Mixed;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Mixed/Mixed-Bridging-Header.h";
+				SWIFT_OBJC_INTERFACE_HEADER_NAME = "Mixed/Mixed-Swift.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -315,6 +317,7 @@
 				663FFB051E3751D600841E30 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
